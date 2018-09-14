@@ -1,2 +1,3 @@
-zmiana commit 1
 zmiana commit 2
+zmiana commit 3
+zmiana commit 4
