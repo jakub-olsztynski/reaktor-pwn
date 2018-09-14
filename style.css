@@ -1,0 +1,115 @@
+body {
+    background-color: #eeeeee; 
+}
+
+h1 {
+font-family: 'Lato', sans-serif; font-size: 50px; color: #404040; background-color: transparent; margin: 25px 50px;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif; font-size: 32px; color: #404040; background-color: transparent; margin: 30px 50px;
+}
+
+p {
+font-family: 'Lato', sans-serif; font-size: 13px; color: #404040; background-color: transparent; margin: 25px 25px;
+letter-spacing: 1px;
+line-height: 1.3;
+}
+
+p.kontakt {
+font-family: 'Lato', sans-serif; font-size: 15px; color: #404040; background-color: transparent; margin: 25px 50px;
+letter-spacing: 1px;
+line-height: 2.0;
+}
+
+p.podpis {
+font-family: 'Lato', sans-serif; font-size: 10px; color: white; background-color: transparent; margin: 0px 0px;
+letter-spacing: 1px;
+line-height: 1;
+border-style: solid;
+position: fixed;
+bottom: 0;
+right: 0;
+}
+
+img {
+    	border-radius: 8px;
+	opacity: 0.8;
+	position: fixed;
+    	top: 0;
+    	right: 0;
+}
+
+img.koj {
+    	border-radius: 12px;
+	opacity: 0.9;
+	position: absolute;
+    top: 500px;
+    left: 50px;
+}
+
+ul {
+    list-style-type: circle;
+	letter-spacing: 1px;
+	margin: 50px 50px 80px 45px;
+	line-height: 1.3;
+}
+
+a {
+font-family: 'Lato', sans-serif; font-size: 15px; color: #404040; background-color: transparent; margin: 80px 80px 80px 80px;
+letter-spacing: 1px;
+line-height: 2.0;
+}
+a.wroc {
+font-family: 'Lato', sans-serif; font-size: 15px; color: #404040; background-color: transparent; margin: 80px 10px 10px 60px;
+letter-spacing: 1px;
+line-height: 0.3;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+li {
+font-family: 'Lato', sans-serif; font-size: 15px; color: #404040; background-color: transparent; 
+
+}
+
+
+div.linia {
+width: 1600px;
+border: 2px transparent;
+position: fixed;
+bottom: 100px;
+}
+
+div.box {
+	width: 500px;
+	height: auto;
+    border: 1px transparent;
+	margin: 50px 50px 50px 25px;
+    text-align: justify;
+}
+
+div.box2 {
+	width: 500px;
+	height: auto;
+    border: 1px red;
+	margin: 50px 50px 50px 25px;
+    text-align: justify;
+	position: absolute;
+    top: 125px;
+    left: 500px;
+}
